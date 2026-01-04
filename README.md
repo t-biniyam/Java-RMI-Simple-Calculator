@@ -8,9 +8,6 @@ The client allows the user to choose the operation, input multiple numbers, and 
 
 Supports dynamic number of inputs and handles division by zero.
 
-Project Structure
-RMI-Calculator/ │ ├─ MathRemote.java // RMI interface ├─ MathProvider.java // RMI server implementation ├─ MathClient.java // RMI client └─ README.md // Project instructions
-
 How It Works
 Server (MathProvider)
 
